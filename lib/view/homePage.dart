@@ -345,7 +345,7 @@ class _HomePageState extends State<HomePage> {
                       ),
                       content: Container(
                         width: context.widthPct(.5),
-                        height: context.heightPct(.5),
+                        height: context.heightPct(.45),
                         margin: EdgeInsets.fromLTRB(0, 0, 0, 0),
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.spaceAround,
@@ -357,7 +357,7 @@ class _HomePageState extends State<HomePage> {
                             Align(
                               alignment: Alignment.topCenter,
                               child: Text(
-                                "Sumber data doa :\nApa Doanya app\n\nDeveloped\nwholeheartedly by\n😎 nabilrei 😎\n😄 hantsnm 😄\n😇 rennyatikas 😇\n🧐 cayne.dameron 🧐\n",
+                                "Sumber data doa :\nApa Doanya app\n\nTerima kasih sudah\nmenggunakan Moodo :D\n\n😎 nabilrei 😎\n😄 hantsnm 😄\n😇 rennyatikas 😇\n🧐 cayne.dameron 🧐\n",
                                 style: Style().body,
                                 textAlign: TextAlign.center,
                               ),
