@@ -25,7 +25,6 @@ dependencies:
     sdk: flutter
   cupertino_icons: ^1.0.2
   double_back_to_close_app: ^2.0.1
-  flutter_launcher_icons: ^0.9.0
   flutter_riverpod: ^0.14.0+1
   format_indonesia: ^0.1.0
   google_nav_bar: ^5.0.3
@@ -39,11 +38,6 @@ dependencies:
   shared_preferences: ^2.0.5
   sized_context: ^0.2.1+1
   splash_screen_view: ^1.0.1
-
-flutter_icons:
-  android: true
-  ios: true
-  image_path: "assets/logo.png"
 
 dev_dependencies:
   flutter_test:
