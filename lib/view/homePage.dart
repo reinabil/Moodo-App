@@ -345,7 +345,7 @@ class _HomePageState extends State<HomePage> {
                       ),
                       content: Container(
                         width: context.widthPct(.5),
-                        height: context.heightPct(.4),
+                        height: context.heightPct(.5),
                         margin: EdgeInsets.fromLTRB(0, 0, 0, 0),
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.spaceAround,
