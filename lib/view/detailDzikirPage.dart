@@ -108,7 +108,7 @@ class DetailDzikirPage extends StatelessWidget {
                     Container(
                       margin: EdgeInsets.only(left: 24),
                       child: Text(
-                        "Lafaz",
+                        "Lafaz Dzikir",
                         style: TextStyle(
                           fontFamily: "Poppins",
                           color: Colors.white,
@@ -178,7 +178,7 @@ class DetailDzikirPage extends StatelessWidget {
                             left: 24,
                           ),
                           child: Text(
-                            "Arti",
+                            "Arti Dzikir",
                             style: TextStyle(
                               fontFamily: "Poppins",
                               color: Colors.white,
@@ -228,7 +228,7 @@ class DetailDzikirPage extends StatelessWidget {
                         Container(
                           margin: EdgeInsets.only(left: 24),
                           child: Text(
-                            "Tentang",
+                            "Tentang Dzikir",
                             style: TextStyle(
                               fontFamily: "Poppins",
                               color: Colors.white,
@@ -240,14 +240,15 @@ class DetailDzikirPage extends StatelessWidget {
                         Container(
                           margin: EdgeInsets.only(right: 24),
                           child: IconButton(
-                              icon: Icon(
-                                Icons.file_copy,
-                                color: Colors.white,
-                              ),
-                              onPressed: () {
-                                Share.share(
-                                    "${dzikir.judul}\n\n${dzikir.arti}\n\nShared with 💖 from Moodo App");
-                              }),
+                            icon: Icon(
+                              Icons.file_copy,
+                              color: Colors.white,
+                            ),
+                            onPressed: () {
+                              Share.share(
+                                  "${dzikir.judul}\n\n${dzikir.arti}\n\nShared with 💖 from Moodo App");
+                            },
+                          ),
                         )
                       ],
                     ),
@@ -277,8 +278,9 @@ class DetailDzikirPage extends StatelessWidget {
                     child: TextButton(
                       onPressed: () {
                         Share.share(
-                            "${dzikir.judul}\n\n${dzikir.lafaz}\n\nArtinya: ${dzikir.arti}\n\nTentang dzikirPagi: ${dzikir.tentang}\n\nShared with 💖 from Moodo App");
+                            "${dzikir.judul}\n\n${dzikir.lafaz}\n\nArtinya: ${dzikir.arti}\n\nTentang Dzikir: \n${dzikir.tentang}\n\nShared with 💖 from Moodo App");
                       },
+                      style: TextButton.styleFrom(primary: Colors.tealAccent),
                       child: Padding(
                         padding: const EdgeInsets.all(16),
                         child: Text(

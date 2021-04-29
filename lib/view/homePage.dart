@@ -1,5 +1,6 @@
 import 'dart:math';
 
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:hijri/hijri_calendar.dart';
 import 'package:gradient_text/gradient_text.dart';
@@ -345,74 +346,37 @@ class _HomePageState extends State<HomePage> {
                       ),
                       content: Container(
                         width: context.widthPct(.5),
-                        height: context.heightPct(.45),
-                        margin: EdgeInsets.fromLTRB(0, 0, 0, 0),
-                        child: Column(
-                          mainAxisAlignment: MainAxisAlignment.spaceAround,
-                          children: <Widget>[
-                            Image.asset("assets/logo_horizontal.png"),
-                            SizedBox(
-                              height: 0,
+                        height: context.heightPct(.4),
+                        child: MediaQuery.removePadding(
+                          removeTop: true,
+                          removeBottom: true,
+                          context: context,
+                          child: CupertinoScrollbar(
+                            child: ListView(
+                              children: [
+                                Center(
+                                  child:
+                                      Image.asset("assets/logo_horizontal.png"),
+                                ),
+                                Align(
+                                  alignment: Alignment.topCenter,
+                                  child: Text(
+                                    "Sumber data doa :\nApa Doanya app\n\nTerima kasih sudah\nmenggunakan Moodo :D\n\n😎 nabilrei 😎\n😄 hantsnm 😄\n😇 rennyatikas 😇\n🧐 cayne.dameron 🧐\n",
+                                    style: Style().body,
+                                    textAlign: TextAlign.center,
+                                  ),
+                                ),
+                                Center(
+                                  child: Text(
+                                    "versi 1.0.0",
+                                    style:
+                                        Style(styleColor: Colors.grey.shade600)
+                                            .body,
+                                  ),
+                                ),
+                              ],
                             ),
-                            Align(
-                              alignment: Alignment.topCenter,
-                              child: Text(
-                                "Sumber data doa :\nApa Doanya app\n\nTerima kasih sudah\nmenggunakan Moodo :D\n\n😎 nabilrei 😎\n😄 hantsnm 😄\n😇 rennyatikas 😇\n🧐 cayne.dameron 🧐\n",
-                                style: Style().body,
-                                textAlign: TextAlign.center,
-                              ),
-                            ),
-                            // Align(
-                            //   alignment: Alignment.topLeft,
-                            //   child: Text(
-                            //     "Pilih tema warna",
-                            //     style: Style().headline,
-                            //     textAlign: TextAlign.left,
-                            //   ),
-                            // ),
-                            // ANCHOR Button tema
-                            // Container(
-                            //   margin: EdgeInsets.symmetric(vertical: 0),
-                            //   child: Wrap(
-                            //     spacing: 16,
-                            //     children: [
-                            //       GestureDetector(
-                            //         onTap: () {},
-                            //         child: Material(
-                            //           borderRadius: BorderRadius.circular(100),
-                            //           elevation: 10,
-                            //           shadowColor: Colors.teal,
-                            //           child: Stack(
-                            //             children: <Widget>[
-                            //               SizedBox(
-                            //                 width: context.widthPct(.14),
-                            //                 height: context.widthPct(.14),
-                            //                 child: Material(
-                            //                     borderRadius:
-                            //                         BorderRadius.circular(100),
-                            //                     color: Colors.transparent),
-                            //               ),
-                            //               Container(
-                            //                 width: context.widthPct(.14),
-                            //                 height: context.widthPct(.14),
-                            //                 decoration: BoxDecoration(
-                            //                     gradient: Style().gradasi,
-                            //                     borderRadius:
-                            //                         BorderRadius.circular(100)),
-                            //               )
-                            //             ],
-                            //           ),
-                            //         ),
-                            //       )
-                            //     ],
-                            //   ),
-                            // ),
-                            Text(
-                              "versi 1.0.0",
-                              style:
-                                  Style(styleColor: Colors.grey.shade600).body,
-                            ),
-                          ],
+                          ),
                         ),
                       ),
                       blur: 2,
@@ -423,3 +387,49 @@ class _HomePageState extends State<HomePage> {
     );
   }
 }
+
+// Align(
+//   alignment: Alignment.topLeft,
+//   child: Text(
+//     "Pilih tema warna",
+//     style: Style().headline,
+//     textAlign: TextAlign.left,
+//   ),
+// ),
+// ANCHOR Button tema
+// Container(
+//   margin: EdgeInsets.symmetric(vertical: 0),
+//   child: Wrap(
+//     spacing: 16,
+//     children: [
+//       GestureDetector(
+//         onTap: () {},
+//         child: Material(
+//           borderRadius: BorderRadius.circular(100),
+//           elevation: 10,
+//           shadowColor: Colors.teal,
+//           child: Stack(
+//             children: <Widget>[
+//               SizedBox(
+//                 width: context.widthPct(.14),
+//                 height: context.widthPct(.14),
+//                 child: Material(
+//                     borderRadius:
+//                         BorderRadius.circular(100),
+//                     color: Colors.transparent),
+//               ),
+//               Container(
+//                 width: context.widthPct(.14),
+//                 height: context.widthPct(.14),
+//                 decoration: BoxDecoration(
+//                     gradient: Style().gradasi,
+//                     borderRadius:
+//                         BorderRadius.circular(100)),
+//               )
+//             ],
+//           ),
+//         ),
+//       )
+//     ],
+//   ),
+// ),

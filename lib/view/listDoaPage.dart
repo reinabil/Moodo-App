@@ -74,46 +74,52 @@ class _ListDoaPageState extends State<ListDoaPage> {
                   ),
                   //ANCHOR FutureBuilder
                   Expanded(
-                    child: CupertinoScrollbar(
-                      child: FutureBuilder(
-                          future: _isInit ? fetchDoa(context) : null,
-                          builder: (context, _) {
-                            if (doaList != null) {
-                              return ListView.builder(
-                                itemCount: doaList!.length,
-                                itemBuilder: (BuildContext context, int index) {
-                                  Doa doa = doaList![index];
+                    child: MediaQuery.removePadding(
+                      removeTop: true,
+                      context: context,
+                      child: CupertinoScrollbar(
+                        child: FutureBuilder(
+                            future: _isInit ? fetchDoa(context) : null,
+                            builder: (context, _) {
+                              if (doaList != null) {
+                                return ListView.builder(
+                                  itemCount: doaList!.length,
+                                  itemBuilder:
+                                      (BuildContext context, int index) {
+                                    Doa doa = doaList![index];
 
-                                  // Edit by Pathik Patel
-                                  String searchSrc = doaList![index]
-                                      .judul
-                                      .toString()
-                                      .toLowerCase();
-                                  String searchTgt =
-                                      searchTxt.text.toLowerCase();
-                                  // return _itemList(index);
-                                  // if search query is empty or
-                                  // current item text contains search query
-                                  if (searchTgt == "" ||
-                                      searchSrc.contains(searchTgt))
-                                    return _itemList(index);
-                                  // if not return empty container
-                                  else
-                                    return Container();
-                                },
-                              );
-                            } else {
-                              LinearProgressIndicator(
+                                    // Edit by Pathik Patel
+                                    String searchSrc = doaList![index]
+                                        .judul
+                                        .toString()
+                                        .toLowerCase();
+                                    String searchTgt =
+                                        searchTxt.text.toLowerCase();
+                                    // return _itemList(index);
+                                    // if search query is empty or
+                                    // current item text contains search query
+                                    if (searchTgt == "" ||
+                                        searchSrc.contains(searchTgt))
+                                      return _itemList(index);
+                                    // if not return empty container
+                                    else
+                                      return Container();
+                                  },
+                                );
+                              } else {
+                                LinearProgressIndicator(
+                                  backgroundColor: Colors.white,
+                                  valueColor:
+                                      AlwaysStoppedAnimation(Colors.white),
+                                );
+                              }
+                              return LinearProgressIndicator(
                                 backgroundColor: Colors.white,
                                 valueColor:
                                     AlwaysStoppedAnimation(Colors.white),
                               );
-                            }
-                            return LinearProgressIndicator(
-                              backgroundColor: Colors.white,
-                              valueColor: AlwaysStoppedAnimation(Colors.white),
-                            );
-                          }),
+                            }),
+                      ),
                     ),
                   ),
                 ],

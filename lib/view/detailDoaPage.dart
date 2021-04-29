@@ -328,8 +328,9 @@ class DetailDoa extends ConsumerWidget {
                     child: TextButton(
                       onPressed: () {
                         Share.share(
-                            "${doa.judul}\n\n${doa.lafaz}\n\nArtinya: ${doa.arti}\n\nTentang Doa: ${doa.tentang}\n\nShared with 💖 from Moodo App");
+                            "${doa.judul}\n\n${doa.lafaz}\n\nArtinya: ${doa.arti}\n\nTentang Doa: \n${doa.tentang}\n\nShared with 💖 from Moodo App");
                       },
+                      style: TextButton.styleFrom(primary: Colors.tealAccent),
                       child: Padding(
                         padding: const EdgeInsets.all(16),
                         child:
