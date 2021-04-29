@@ -6,6 +6,9 @@ import 'package:splash_screen_view/SplashScreenView.dart';
 
 void main() {
   runApp(ProviderScope(child: Moodo()));
+  WidgetsFlutterBinding.ensureInitialized();
+  SystemChrome.setPreferredOrientations(
+      [DeviceOrientation.portraitUp, DeviceOrientation.portraitDown]);
   SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
     statusBarColor: Colors.transparent,
     statusBarIconBrightness: Brightness.light, //top bar icons
@@ -25,16 +28,22 @@ class _MoodoState extends State<Moodo> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Moodo",
-      theme: ThemeData.dark(),
-      // brightness: Brightness.dark,
-      // backgroundColor: const Color(0xFF212121),
-      // accentIconTheme: IconThemeData(color: Colors.black),
-      // dividerColor: Colors.black12,
-      // // Define the default brightness and colors.
-      // primaryColor: Colors.teal,
-      // accentColor: Colors.tealAccent),
-      darkTheme: ThemeData.dark(),
-      themeMode: ThemeMode.dark,
+      theme: ThemeData(
+          textSelectionTheme: TextSelectionThemeData(
+            cursorColor: Colors.tealAccent,
+            selectionColor: Colors.teal,
+            selectionHandleColor: Colors.teal,
+          ),
+          textButtonTheme: TextButtonThemeData(
+            style: ButtonStyle(
+                overlayColor: MaterialStateColor.resolveWith(
+              (states) => Colors.tealAccent,
+            )),
+          ),
+          primaryColor: Colors.teal,
+          accentColor: Colors.tealAccent,
+          hoverColor: Colors.tealAccent,
+          highlightColor: Colors.tealAccent),
       home: SplashScreenView(
         home: MainPage(),
         duration: 2000,
