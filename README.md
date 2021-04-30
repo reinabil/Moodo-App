@@ -1,15 +1,13 @@
 # moodo
+![Imgur](https://i.imgur.com/93M2Wzll.png)
 
-A new Flutter project.
+Moodo adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Tim pengembang moodo
+- Hana Tasnim (G64190018)
+- Nabil Raihan (G64190034)
+- Renny Atikasari (G64190040)
+- Dwayne Cameron (G64190085)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
