@@ -15,4 +15,4 @@
 - Penympanan data : JSON local file
 
 ## Preview
-<img src="https://i.imgur.com/cczXAHf.png" width="360" height="720" /> <img src="https://i.imgur.com/F3ebRwH.png" width="360" height="720" />
+<img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" /> <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
