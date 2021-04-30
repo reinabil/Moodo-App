@@ -205,7 +205,7 @@ class DetailDoa extends ConsumerWidget {
                               margin: EdgeInsets.only(top: 16),
                               alignment: Alignment.centerLeft,
                               child: Text(
-                                doa.latin!.toUpperCase(),
+                                doa.latin!,
                                 style: TextStyle(
                                   fontFamily: "Poppins",
                                   fontStyle: FontStyle.italic,

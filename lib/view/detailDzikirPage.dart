@@ -154,7 +154,7 @@ class DetailDzikirPage extends StatelessWidget {
                               margin: EdgeInsets.only(top: 16),
                               alignment: Alignment.centerLeft,
                               child: Text(
-                                dzikir.latin!.toUpperCase(),
+                                dzikir.latin!,
                                 style: TextStyle(
                                   fontFamily: "Poppins",
                                   fontStyle: FontStyle.italic,

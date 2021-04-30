@@ -214,7 +214,7 @@ class _HomePageState extends State<HomePage> {
                                 style: TextStyle(fontSize: 24),
                               ),
                               Text(
-                                "ALAA BIDZIKRILLAHI TATHMA-INNUL QULUUB(U);",
+                                "Alaa bidzikrillahi tathma-innul quluub(u);",
                                 style: TextStyle(
                                     fontFamily: "Poppins",
                                     fontSize: 12,

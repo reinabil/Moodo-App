@@ -84,8 +84,7 @@ class _PagiPetangPageState extends State<PagiPetangPage> {
                               height: 5,
                             ),
                             Text(
-                              "fasubhaana allaahi hiina tumsuuna wahiina tushbihuuna"
-                                  .toUpperCase(),
+                              "Fasubhaana allaahi hiina tumsuuna wahiina tushbihuuna",
                               style: TextStyle(
                                   fontFamily: "Poppins",
                                   fontSize: 12,
