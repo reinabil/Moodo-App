@@ -36,7 +36,7 @@ dependencies:
   screenshot: 0.2.0
   share: ^2.0.1
   shared_preferences: ^2.0.5
-  sized_context: ^0.2.1+1
+  sized_context: ^1.0.0-nullsafety
   splash_screen_view: ^1.0.1
 
 dev_dependencies:
