@@ -4,7 +4,7 @@
 > Moodo adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan.
 
 ## Download aplikasi
-[Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://google.com)
+[Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://drive.google.com/file/d/1HXom3b5O-lZW0UuNEwgVQ1200rrVseOe/view?usp=sharing)
 
 ## Minimum specifications requirements
 - Android version : Jelly bean (v4.x) or above
