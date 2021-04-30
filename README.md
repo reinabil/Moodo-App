@@ -1,16 +1,25 @@
-# moodo
+# Moodo
+<img src="https://i.imgur.com/93M2Wzl.png" width="316" height="87.91" />
 
-A new Flutter project.
+> Moodo adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan.
 
-## Getting Started
+## Download aplikasi
+[Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://google.com)
 
-This project is a starting point for a Flutter application.
+## Minimum specifications requirements
+- Android version : Jelly bean (v4.x) or above
+- Free storage : 20 MB
 
-A few resources to get you started if this is your first Flutter project:
+## Tim pengembang moodo
+- Hana Tasnim (G64190018)
+- Nabil Raihan (G64190034)
+- Renny Atikasari (G64190040)
+- Dwayne Cameron (G64190085)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Arsitektur aplikasi
+- Framework : Flutter 2.0.5
+- Text editor : Visual Studio Code & Android Studio
+- Penympanan data : JSON local file
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+<img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" /> <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
