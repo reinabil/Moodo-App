@@ -36,8 +36,14 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
-      body: Scaffold(
+    return MaterialApp(
+      theme: ThemeData(
+          // Define the default brightness and colors.
+          primaryColor: Colors.teal,
+          accentColor: Colors.tealAccent),
+      debugShowCheckedModeBanner: false,
+      home: Scaffold(
+        resizeToAvoidBottomInset: false,
         body: Stack(children: <Widget>[
           Container(
               constraints: BoxConstraints.expand(),
@@ -326,7 +332,10 @@ class _HomePageState extends State<HomePage> {
                             ),
                           ],
                         ),
-                      )
+                      ),
+                      Container(
+                        height: 100,
+                      ),
                     ],
                   ),
                 );
@@ -361,8 +370,28 @@ class _HomePageState extends State<HomePage> {
                                 Align(
                                   alignment: Alignment.topCenter,
                                   child: Text(
-                                    "Sumber data doa :\nApa Doanya app\n\nTerima kasih sudah\nmenggunakan Moodo :D\n\n😎 nabilrei 😎\n😄 hantsnm 😄\n😇 rennyatikas 😇\n🧐 cayne.dameron 🧐\n",
+                                    "Sumber data doa :\nApa Doanya app\n\nTerima kasih sudah\nmenggunakan Moodo :D\n",
                                     style: Style().body,
+                                    textAlign: TextAlign.center,
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment.topCenter,
+                                  child: Text(
+                                    "😎 nabilrei 😎\n😄 hantsnm 😄\n😇 rennyatikas 😇\n🧐 cayne.dameron 🧐\n",
+                                    style:
+                                        Style(styleColor: Colors.grey.shade600)
+                                            .body,
+                                    textAlign: TextAlign.center,
+                                  ),
+                                ),
+                                Align(
+                                  alignment: Alignment.topCenter,
+                                  child: Text(
+                                    "Ilustrasi :\nhttps://lottiefiles.com/rizwanrasool\nhttps://lottiefiles.com/crestart\n",
+                                    style:
+                                        Style(styleColor: Colors.grey.shade600)
+                                            .caption,
                                     textAlign: TextAlign.center,
                                   ),
                                 ),
