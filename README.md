@@ -1,7 +1,14 @@
-# moodo
+# Moodo
 <img src="https://i.imgur.com/93M2Wzl.png" width="316" height="87.91" />
 
 > Moodo adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan.
+
+## Download aplikasi
+[Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://google.com)
+
+## Minimum specifications requirements
+- Android version : Jelly bean (v4.x) or above
+- Free storage : 20 MB
 
 ## Tim pengembang moodo
 - Hana Tasnim (G64190018)
@@ -10,7 +17,7 @@
 - Dwayne Cameron (G64190085)
 
 ## Arsitektur aplikasi
-- Framework : Flutter
+- Framework : Flutter 2.0.5
 - Text editor : Visual Studio Code & Android Studio
 - Penympanan data : JSON local file
 
