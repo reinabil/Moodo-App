@@ -378,10 +378,10 @@ class _HomePageState extends State<HomePage> {
                                 Align(
                                   alignment: Alignment.topCenter,
                                   child: Text(
-                                    "😎 nabilrei 😎\n😄 hantsnm 😄\n😇 rennyatikas 😇\n🧐 cayne.dameron 🧐\n",
+                                    "😎 nabilrei 😎\n😄 hantsnm 😄\n😇 rennyatikas 😇\n🤗 cayne.dameron 🤗\n",
                                     style:
                                         Style(styleColor: Colors.grey.shade600)
-                                            .body,
+                                            .caption,
                                     textAlign: TextAlign.center,
                                   ),
                                 ),
@@ -400,7 +400,7 @@ class _HomePageState extends State<HomePage> {
                                     "versi 1.0.0",
                                     style:
                                         Style(styleColor: Colors.grey.shade600)
-                                            .body,
+                                            .caption,
                                   ),
                                 ),
                               ],
