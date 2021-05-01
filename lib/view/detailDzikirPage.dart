@@ -278,7 +278,7 @@ class DetailDzikirPage extends StatelessWidget {
                     child: TextButton(
                       onPressed: () {
                         Share.share(
-                            "${dzikir.judul}\n\n${dzikir.lafaz}\n\nArtinya: ${dzikir.arti}\n\nTentang Dzikir: \n${dzikir.tentang}\n\nShared with 💖 from Moodo App");
+                            "${dzikir.judul}\n\n${dzikir.lafaz}\n\nArtinya: ${dzikir.arti}\n\nTentang Dzikir: \n${dzikir.tentang}\n\nDisebarkan dengan sepenuh 💖 dari Moodo.\nInstall Moodo sekarang juga! https://ipb.link/get-moodo");
                       },
                       style: TextButton.styleFrom(primary: Colors.tealAccent),
                       child: Padding(
