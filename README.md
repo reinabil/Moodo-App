@@ -11,10 +11,10 @@
 - Free storage : 20 MB
 
 ## Tim pengembang moodo
-- Hana Tasnim (G64190018)
-- Nabil Raihan (G64190034)
-- Renny Atikasari (G64190040)
-- Dwayne Cameron (G64190085)
+- Hana Tasnim (G64190018) - UI/UX designer
+- Nabil Raihan (G64190034) - Front-end developer
+- Renny Atikasari (G64190040) - UI/UX researcher
+- Dwayne Cameron (G64190085) - Back-end developer
 
 ## Arsitektur aplikasi
 - Framework : Flutter 2.0.5
