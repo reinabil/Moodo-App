@@ -12,7 +12,7 @@
 
 ## Tim pengembang moodo
 - Hana Tasnim (G64190018) - UI/UX designer
-- Nabil Raihan (G64190034) - Front-end developer
+- Nabil Raihan (G64190034) - Front-end developer & Project Leader
 - Renny Atikasari (G64190040) - UI/UX researcher
 - Dwayne Cameron (G64190085) - Back-end developer
 
