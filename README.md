@@ -109,7 +109,7 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
 Aplikasi sudah tersedia pada Play Store atau bisa langsung
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
   
-  <img src="https://drive.google.com/file/d/1eS5Dke-LHgKNX0IDB1etH-T0ocZOhL6F/view?usp=sharing" width="500" height="350" />
+<img src="https://trello-attachments.s3.amazonaws.com/6020b019834f9a761fda2244/60ab394601575a288c07153b/4f8d1f9303a5c558341769e08ef909f0/Thumbnail%2B18_9.png" width="500" height="250" />
 
 ## Testing (Test Case)
 - Positive Cases
