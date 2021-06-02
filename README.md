@@ -76,10 +76,6 @@
 
 > Moodo "Du'a for your daily mood" adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan. Aplikasi ini memuat lebih dari 250 doa/zikir yang disesuaikan dengan mood user (sedih, normal, senang). Aplikasi Moodo juga dilengkapi dengan detail doa (Arab, latin, arti doa, dan sumber doa).
 
-## Download Aplikasi
-Aplikasi sudah tersedia pada Play Store atau bisa langsung
-[Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
-
 ## Projek Documentation 
 - [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
 - [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
@@ -108,6 +104,11 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
 
 ## Hasil Implementasi
 - Screenshot sistem
+
+## Download Aplikasi
+Aplikasi sudah tersedia pada Play Store atau bisa langsung
+[Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
+  <img src="https://drive.google.com/file/d/1eS5Dke-LHgKNX0IDB1etH-T0ocZOhL6F/view?usp=sharing" width="500" height="350" />
 
 ## Testing (Test Case)
 - Positive Cases
