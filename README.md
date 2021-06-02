@@ -108,6 +108,7 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
 ## Download Aplikasi
 Aplikasi sudah tersedia pada Play Store atau bisa langsung
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
+  
   <img src="https://drive.google.com/file/d/1eS5Dke-LHgKNX0IDB1etH-T0ocZOhL6F/view?usp=sharing" width="500" height="350" />
 
 ## Testing (Test Case)
