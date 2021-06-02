@@ -5,6 +5,8 @@
 
 ## Download aplikasi
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
+[![Moodo Playstore](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](https://ipb.link/get-moodo)
+
 
 ## Minimum specifications requirements
 - Android version : Jelly bean (v4.x) or above
