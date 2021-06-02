@@ -96,7 +96,7 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
 ## Hasil dan Pembahasan
 - Use Case Diagram
     > Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem.
-    <img src="https://trello-attachments.s3.amazonaws.com/6045a23af4435585403a4210/683x507/dbb413e39aad8a6a9e4ff23525a555ff/Use_Case_Diagram_Moodo.PNG.png" width="316" height="250" />
+    <img src="https://trello-attachments.s3.amazonaws.com/6045a23af4435585403a4210/683x507/dbb413e39aad8a6a9e4ff23525a555ff/Use_Case_Diagram_Moodo.PNG.png" width="500" height="350" />
 
 - Activity Diagram
     > Activity Diagram merupakan diagram yang dapat memodelkan proses-proses yang terjadi pada sebuah sistem. Runtutan proses dari suatu sistem digambarkan secara vertikal. Activity diagram merupakan pengembangan dari Use Case yang memiliki alur aktivitas. 
