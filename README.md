@@ -47,7 +47,7 @@
             <td>1</td>
             <td>Hana Tasnim</td>
             <td>G64190018</td>
-            <td>UI/UX designer</td>
+            <td>UI/UX Designer</td>
         </tr>
         <tr>
             <td>2</td>
@@ -85,9 +85,36 @@ Aplikasi sudah tersedia pada Play Store atau bisa langsung
 - [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
 - [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
 ## User Analisis
-User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. User analisis meliputi dua bagian yaitu :
+User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. 
+- User stories adalah bagian dari user analisis yang memuat penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna. [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
 
-- User stories adalah penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
-- Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem
-[Klik di sini untuk melihat UML moodo](ipb.link/use-case-moodo-diagram)
+## Spesifikasi Teknis Pengembangan
+- Software 
+- Hardware
+- Tech Stack
+
+## Hasil dan Pembahasan
+- Use Case Diagram
+    > Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem.
+    <img src="https://trello-attachments.s3.amazonaws.com/6045a23af4435585403a4210/683x507/dbb413e39aad8a6a9e4ff23525a555ff/Use_Case_Diagram_Moodo.PNG.png" width="316" height="250" />
+
+- Activity Diagram
+    > Activity Diagram merupakan diagram yang dapat memodelkan proses-proses yang terjadi pada sebuah sistem. Runtutan proses dari suatu sistem digambarkan secara vertikal. Activity diagram merupakan pengembangan dari Use Case yang memiliki alur aktivitas. 
+- Class Diagram
+- ERD
+- Arsitektur Sistem
+- Fungsi Utama 
+- Fungsi CRUD
+
+## Hasil Implementasi
+- Screenshot sistem
+
+## Testing (Test Case)
+- Positive Cases
+- Negative Cases
+
+## Saran untuk pengembangan selanjutnya
+
+
+
 
