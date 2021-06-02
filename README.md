@@ -85,9 +85,9 @@
 > - [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
 > - [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
 ## User Analisis
-> User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak.
+> User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. User analisis meliputi dua bagian yaitu :
 
-- User stories adalah penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna. [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
-- Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem.
+- User stories adalah penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
+- Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem
 [Klik di sini untuk melihat UML moodo](ipb.link/use-case-moodo-diagram)
 
