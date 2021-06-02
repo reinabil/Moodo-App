@@ -77,15 +77,15 @@
 > Moodo "Du'a for your daily mood" adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan. Aplikasi ini memuat lebih dari 250 doa/zikir yang disesuaikan dengan mood user (sedih, normal, senang). Aplikasi Moodo juga dilengkapi dengan detail doa (Arab, latin, arti doa, dan sumber doa).
 
 ## Download Aplikasi
->Aplikasi sudah tersedia pada Play Store atau bisa langsung
+Aplikasi sudah tersedia pada Play Store atau bisa langsung
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
 
 ## Projek Documentation 
-> - [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
-> - [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
-> - [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
+- [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
+- [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
+- [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
 ## User Analisis
-> User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. User analisis meliputi dua bagian yaitu :
+User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. User analisis meliputi dua bagian yaitu :
 
 - User stories adalah penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
 - Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem
