@@ -6,6 +6,7 @@
 ## Download aplikasi
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
 [![Moodo Playstore](https://i.imgur.com/Di93a9Ct.png)](https://ipb.link/get-moodo)
+[Imgur](https://i.imgur.com/Di93a9Ct.png)
 
 
 ## Minimum specifications requirements
