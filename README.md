@@ -98,12 +98,17 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
     > Activity Diagram merupakan diagram yang dapat memodelkan proses-proses yang terjadi pada sebuah sistem. Runtutan proses dari suatu sistem digambarkan secara vertikal. Activity diagram merupakan pengembangan dari Use Case yang memiliki alur aktivitas. 
 - Class Diagram
 - ERD
-- Arsitektur Sistem
+- Arsitektur Diagram
+    > Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya.
+    
+     <img src="https://trello-attachments.s3.amazonaws.com/6033234ba21fd86aafb964bc/523x645/f47b0310bc0d2aba4063d8186471eaed/IMG-20210426-WA0000.jpg" width="500" height="550" />
 - Fungsi Utama 
 - Fungsi CRUD
 
 ## Hasil Implementasi
-- Screenshot sistem
+Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
+
+<img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" /> <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
 
 ## Download Aplikasi
 Aplikasi sudah tersedia pada Play Store atau bisa langsung
