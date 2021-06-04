@@ -148,10 +148,20 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
      <img src="https://trello-attachments.s3.amazonaws.com/6033234ba21fd86aafb964bc/523x645/f47b0310bc0d2aba4063d8186471eaed/IMG-20210426-WA0000.jpg" width="500" height="550" />
 ## Fungsi Utama 
 1. Welcome Page & Home Page Moodo
-       Pada fitur welcome page terdapat sambutan salam "Assalamualaikum" dengan melampirkan penanggalan kalender masehi maupun hijriah. Kemudian, pada welcome page juga user disambut dengan tampilan "Doa of the Day" yang akan terus berganti setiap kali membuka aplikasi Moodo.
-       Kemudian pada fitur home page, user bisa memilih doa berdasarkan mood yang sudah disediakan dengan bentuk tiga icon sesuai dengan mood (sedih, normal, senang).
-    
-<img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" />
+       Pada fitur welcome page terdapat sambutan salam "Assalamualaikum" dengan melampirkan penanggalan kalender masehi maupun hijriah. Pada welcome page juga user disambut dengan tampilan "Doa of the Day" yang akan terus berganti setiap kali membuka aplikasi Moodo.
+       
+    Kemudian pada fitur home page, user bisa memilih doa berdasarkan mood yang sudah disediakan dengan bentuk tiga icon sesuai dengan mood (sedih, normal, senang).
+    <img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" />
+
+2. Pencarian Doa by Keyword
+        Pada fitur pencarian doa berdasarkan keyword, user dalam memasukkan kata kunci sesuai dengan doa yang ingin dicari pada kolom search doa. Pada page doa ini, terdapat 250 lebih pilihan doa dilengkapi dengan arab, latin, arti dan juga tentang doa tersebut. <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
+
+3. Doa Favorite
+        Pada fitur favorit, user bisa menambahkan doa yang disukai/sedang ingin dibaca secara berulang pada fitur favorit. Sehingga doa akan secara otomatis dimasukkan pada page favorit yang dapat memudahkan user ketika mencari doa tersebut. <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" />
+
+4. Zikir Pagi & Petang
+        Fitur zikir pagi & petang merupakan panduan zikir pagi & petang yang dimaksudkan agar mempermudah user ketika ingin berzikir dimanapun dan kapanpun karena dikemas dalam aplikasi mobile dan tidak memerlukan akses internet. Fitur ini juga di desain dengan menarik sehingga mampu membuat user merasa nyaman ketika mengikuti panduan zikir pagi & petang pada aplikasi moodo. <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> 
+
 - Fungsi CRUD
 
 ## Hasil Implementasi
