@@ -1,5 +1,5 @@
 # Moodo
-<img src="https://i.imgur.com/93M2Wzl.png" width="316" height="87.91" />
+<img src="https://trello-attachments.s3.amazonaws.com/6020b019834f9a761fda2244/60ab394601575a288c07153b/4f8d1f9303a5c558341769e08ef909f0/Thumbnail%2B18_9.png" width="500" height="250" />
 
 > Moodo adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan.
 
@@ -52,9 +52,8 @@
     </tbody>
 </table>
 
-
+<img src="https://i.imgur.com/93M2Wzl.png" width="316" height="87.91" />
 ## Selayang Pandang
-
 Moodo "Du'a for your daily mood" adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan. Aplikasi ini memuat lebih dari 250 doa/zikir yang disesuaikan dengan mood user (sedih, normal, senang). Aplikasi Moodo juga dilengkapi dengan detail doa (Arab, latin, arti doa, dan sumber doa).
 
 ## Latar Belakang
@@ -160,8 +159,6 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 ## Download Aplikasi
 Aplikasi sudah tersedia pada Play Store atau bisa langsung
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
-  
-<img src="https://trello-attachments.s3.amazonaws.com/6020b019834f9a761fda2244/60ab394601575a288c07153b/4f8d1f9303a5c558341769e08ef909f0/Thumbnail%2B18_9.png" width="500" height="250" />
 
 ## Projek Documentation 
 - [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
