@@ -77,7 +77,7 @@
 > Moodo "Du'a for your daily mood" adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan. Aplikasi ini memuat lebih dari 250 doa/zikir yang disesuaikan dengan mood user (sedih, normal, senang). Aplikasi Moodo juga dilengkapi dengan detail doa (Arab, latin, arti doa, dan sumber doa).
 
 ## Latar Belakang
-> Setelah satu tahun pandemi Covid-19, tim moodo menemukan beberapa permasalahan yang cukup serius yang dialami beberapa teman kami. Berikut hasil survei yang kami dapatkan :
+Setelah satu tahun pandemi Covid-19, tim moodo menemukan beberapa permasalahan yang cukup serius yang dialami beberapa teman kami. Berikut hasil survei yang kami dapatkan :
 - Covid-19 mengganggu psikologi. Dikarenakan pandemi Covid-19 ternyata menyebabkan masyarakat gelisah akibat karantina yang dilakukan.
 - Hafalan doa masih sedikit. Berdasarkan data yang kami dapatkan dari tirto.id menyatakan bahwa 68% masyarakat Indonesia belum memiliki literasi yang baik dalam menghafal dan melafalkan doa-doa harian.
 
@@ -136,24 +136,21 @@
     </tbody>
 </table>
 
-
-
-
 ## User Analisis
 User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. 
 - User stories adalah bagian dari user analisis yang memuat penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna. [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
 
 ## Hasil dan Pembahasan
 - Use Case Diagram
-    > Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem.
+    Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem.
     <img src="https://trello-attachments.s3.amazonaws.com/6045a23af4435585403a4210/683x507/dbb413e39aad8a6a9e4ff23525a555ff/Use_Case_Diagram_Moodo.PNG.png" width="500" height="350" />
 
 - Activity Diagram
-    > Activity Diagram merupakan diagram yang dapat memodelkan proses-proses yang terjadi pada sebuah sistem. Runtutan proses dari suatu sistem digambarkan secara vertikal. Activity diagram merupakan pengembangan dari Use Case yang memiliki alur aktivitas. 
+    Activity Diagram merupakan diagram yang dapat memodelkan proses-proses yang terjadi pada sebuah sistem. Runtutan proses dari suatu sistem digambarkan secara vertikal. Activity diagram merupakan pengembangan dari Use Case yang memiliki alur aktivitas. 
 - Class Diagram
 - ERD
 - Arsitektur Diagram
-    > Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya.
+    Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya.
     
      <img src="https://trello-attachments.s3.amazonaws.com/6033234ba21fd86aafb964bc/523x645/f47b0310bc0d2aba4063d8186471eaed/IMG-20210426-WA0000.jpg" width="500" height="550" />
 - Fungsi Utama 
