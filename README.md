@@ -162,7 +162,7 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
 3. Doa Favorite
         Pada fitur favorit, user bisa menambahkan doa yang disukai/sedang ingin dibaca secara berulang pada fitur favorit. Sehingga doa akan secara otomatis dimasukkan pada page favorit yang dapat memudahkan user ketika mencari doa tersebut. 
     
-    <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="qemu-system-x86_64_g9D4cIXL1d.png" width="270" height="570" /> 
+    <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="https://trello-attachments.s3.amazonaws.com/60ba3b80da16c536004be599/375x792/e5185beb75cd18110027be72f37e0a5c/qemu-system-x86_64_g9D4cIXL1d.png" width="270" height="570" /> 
 
 4. Zikir Pagi & Petang
         Fitur zikir pagi & petang merupakan panduan zikir pagi & petang yang dimaksudkan agar mempermudah user ketika ingin berzikir dimanapun dan kapanpun karena dikemas dalam aplikasi mobile dan tidak memerlukan akses internet. Fitur ini juga di desain dengan menarik sehingga mampu membuat user merasa nyaman ketika mengikuti panduan zikir pagi & petang pada aplikasi moodo. 
