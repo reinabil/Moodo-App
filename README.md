@@ -151,8 +151,7 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
        Pada fitur welcome page terdapat sambutan salam "Assalamualaikum" dengan melampirkan penanggalan kalender masehi maupun hijriah. Kemudian, pada welcome page juga user disambut dengan tampilan "Doa of the Day" yang akan terus berganti setiap kali membuka aplikasi Moodo.
        Kemudian pada fitur home page, user bisa memilih doa berdasarkan mood yang sudah disediakan dengan bentuk tiga icon sesuai dengan mood (sedih, normal, senang).
     
-<img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> 
-<img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" />
+<img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" />
 - Fungsi CRUD
 
 ## Hasil Implementasi
