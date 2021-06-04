@@ -53,8 +53,7 @@
 </table>
 
 
-## Moodo
-<img src="https://i.imgur.com/93M2Wzl.png" width="316" height="87.91" />
+## Selayang Pandang
 
 Moodo "Du'a for your daily mood" adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan. Aplikasi ini memuat lebih dari 250 doa/zikir yang disesuaikan dengan mood user (sedih, normal, senang). Aplikasi Moodo juga dilengkapi dengan detail doa (Arab, latin, arti doa, dan sumber doa).
 
