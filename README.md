@@ -88,7 +88,7 @@ Setelah satu tahun pandemi Covid-19, tim moodo menemukan beberapa permasalahan y
         </tr>
         <tr>
             <td>Screen Resolution</td>
-            <td colspan=3 style="text-align:center">480x800</td>
+            <td colspan=3 style="text-align:center">480x800 or above</td>
         </tr>
         <tr>
             <td>Internet Access</td>
@@ -117,7 +117,7 @@ Setelah satu tahun pandemi Covid-19, tim moodo menemukan beberapa permasalahan y
     </tbody>
 </table>
 
-## User Analisis
+## User Analysis
 User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. 
 - User stories adalah bagian dari user analisis yang memuat penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna. [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
 
