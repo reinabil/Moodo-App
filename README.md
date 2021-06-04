@@ -155,14 +155,14 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
     <img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" />
 
 2. Pencarian Doa by Keyword
-        Pada fitur pencarian doa berdasarkan keyword, user dalam memasukkan kata kunci sesuai dengan doa yang ingin dicari pada kolom search doa. Pada page doa ini, terdapat 250 lebih pilihan doa dilengkapi dengan arab, latin, arti dan juga tentang doa tersebut. 
+        Pada fitur pencarian doa berdasarkan keyword, user dapat memasukkan kata kunci sesuai dengan doa yang ingin dicari pada kolom search doa. Pada page doa ini, terdapat 250 lebih pilihan doa dilengkapi dengan arab, latin, arti dan juga tentang doa tersebut. 
     
     <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
 
 3. Doa Favorite
         Pada fitur favorit, user bisa menambahkan doa yang disukai/sedang ingin dibaca secara berulang pada fitur favorit. Sehingga doa akan secara otomatis dimasukkan pada page favorit yang dapat memudahkan user ketika mencari doa tersebut. 
     
-    <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" />
+    <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="qemu-system-x86_64_g9D4cIXL1d.png" width="270" height="570" /> 
 
 4. Zikir Pagi & Petang
         Fitur zikir pagi & petang merupakan panduan zikir pagi & petang yang dimaksudkan agar mempermudah user ketika ingin berzikir dimanapun dan kapanpun karena dikemas dalam aplikasi mobile dan tidak memerlukan akses internet. Fitur ini juga di desain dengan menarik sehingga mampu membuat user merasa nyaman ketika mengikuti panduan zikir pagi & petang pada aplikasi moodo. 
