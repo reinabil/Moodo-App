@@ -167,7 +167,7 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
 4. Zikir Pagi & Petang
         Fitur zikir pagi & petang merupakan panduan zikir pagi & petang yang dimaksudkan agar mempermudah user ketika ingin berzikir dimanapun dan kapanpun karena dikemas dalam aplikasi mobile dan tidak memerlukan akses internet. Fitur ini juga di desain dengan menarik sehingga mampu membuat user merasa nyaman ketika mengikuti panduan zikir pagi & petang pada aplikasi moodo. 
     
-    <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> 
+    <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> <img src="https://trello-attachments.s3.amazonaws.com/60ba3bff0ceeec5caa64a489/375x792/2662203225d97911e38e0b9ffc1fe0a2/qemu-system-x86_64_xvtR28H8w0.png" width="270" height="570" /> <img src="https://trello-attachments.s3.amazonaws.com/60ba3bdafbb1e322c7ef7aa4/375x792/e2c59a1d5ff4cd3c595e2fa7bf7fcbd1/qemu-system-x86_64_RhsEte0IIr.png" width="270" height="570" /> 
 
 - Fungsi CRUD
 
