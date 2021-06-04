@@ -76,18 +76,25 @@
 
 > Moodo "Du'a for your daily mood" adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan. Aplikasi ini memuat lebih dari 250 doa/zikir yang disesuaikan dengan mood user (sedih, normal, senang). Aplikasi Moodo juga dilengkapi dengan detail doa (Arab, latin, arti doa, dan sumber doa).
 
-## Projek Documentation 
-- [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
-- [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
-- [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
-## User Analisis
-User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. 
-- User stories adalah bagian dari user analisis yang memuat penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna. [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
+## Latar Belakang
+> Setelah satu tahun pandemi Covid-19, tim moodo menemukan beberapa permasalahan yang cukup serius yang dialami beberapa teman kami. Berikut hasil survei yang kami dapatkan :
+- Covid-19 mengganggu psikologi. Dikarenakan pandemi Covid-19 ternyata menyebabkan masyarakat gelisah akibat karantina yang dilakukan.
+- Hafalan doa masih sedikit. Berdasarkan data yang kami dapatkan dari tirto.id menyatakan bahwa 68% masyarakat Indonesia belum memiliki literasi yang baik dalam menghafal dan melafalkan doa-doa harian.
+
+## Tujuan
+- Memudahkan pengguna mencari doa sesuai syariat Islam
+- Mengurangi tingkat stress akibat pandemi Covid-19 dengan pendekatan religius
+- Membiasakan kaum muslimin untuk membaca doa di setiap kondisi
+- Mempermudah pengguna untuk menghafal doa-doa harian
 
 ## Spesifikasi Teknis Pengembangan
 - Software 
 - Hardware
 - Tech Stack
+
+## User Analisis
+User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. 
+- User stories adalah bagian dari user analisis yang memuat penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna. [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
 
 ## Hasil dan Pembahasan
 - Use Case Diagram
@@ -120,6 +127,10 @@ Aplikasi sudah tersedia pada Play Store atau bisa langsung
 - Positive Cases
 - Negative Cases
 
+## Projek Documentation 
+- [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
+- [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
+- [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
 ## Saran untuk pengembangan selanjutnya
 
 
