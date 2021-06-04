@@ -87,10 +87,63 @@
 - Membiasakan kaum muslimin untuk membaca doa di setiap kondisi
 - Mempermudah pengguna untuk menghafal doa-doa harian
 
-## Spesifikasi Teknis Pengembangan
-- Software 
-- Hardware
-- Tech Stack
+## Ruang Lingkup
+### Minimum requirement
+<table>
+    <thead>
+        <tr>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Operating System</td>
+            <td colspan=3 style="text-align:center">Andorid Kitkat (4.4 SDK 19) or above</td>
+        </tr>
+        <tr>
+            <td>Processor</td>
+            <td colspan=3 style="text-align:center">arm64-v8a Processor</td>
+        </tr>
+        <tr>
+            <td>Memory</td>
+            <td colspan=3 style="text-align:center">1 GB or above</td>
+        </tr>
+        <tr>
+            <td>Screen Resolution</td>
+            <td colspan=3 style="text-align:center">480x800</td>
+        </tr>
+        <tr>
+            <td>Internet Access</td>
+            <td colspan=3 style="text-align:center">Not required</td>
+        </tr>
+    </tbody>
+</table>
+
+### Spesifikasi Teknis Pengembangan
+<table>
+    <thead>
+        <tr>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Software</td>
+            <td colspan=3 style="text-align:center">VS Code, Android Studio</td>
+        </tr>
+        <tr>
+            <td>Hardware</td>
+            <td colspan=3 style="text-align:center">Intel i5-6200U @2.30 GHz ; 8 GB DDR4 RAM : NVIDIA GeForce 930M</td>
+        </tr>
+        <tr>
+            <td>Tech Stack</td>
+            <td colspan=3 style="text-align:center">Flutter Framework with packages from https://pub.dev</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
 
 ## User Analisis
 User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. 
