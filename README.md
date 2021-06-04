@@ -74,7 +74,7 @@
 ## Moodo
 <img src="https://i.imgur.com/93M2Wzl.png" width="316" height="87.91" />
 
-> Moodo "Du'a for your daily mood" adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan. Aplikasi ini memuat lebih dari 250 doa/zikir yang disesuaikan dengan mood user (sedih, normal, senang). Aplikasi Moodo juga dilengkapi dengan detail doa (Arab, latin, arti doa, dan sumber doa).
+Moodo "Du'a for your daily mood" adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan. Aplikasi ini memuat lebih dari 250 doa/zikir yang disesuaikan dengan mood user (sedih, normal, senang). Aplikasi Moodo juga dilengkapi dengan detail doa (Arab, latin, arti doa, dan sumber doa).
 
 ## Latar Belakang
 Setelah satu tahun pandemi Covid-19, tim moodo menemukan beberapa permasalahan yang cukup serius yang dialami beberapa teman kami. Berikut hasil survei yang kami dapatkan :
@@ -142,15 +142,26 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
 
 ## Hasil dan Pembahasan
 - Use Case Diagram
-    Use-case diagram merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem.
+    merupakan model diagram UML yang digunakan untuk menggambarkan requirement fungsional yang diharapkan dari sebuah sistem.
+
     <img src="https://trello-attachments.s3.amazonaws.com/6045a23af4435585403a4210/683x507/dbb413e39aad8a6a9e4ff23525a555ff/Use_Case_Diagram_Moodo.PNG.png" width="500" height="350" />
 
 - Activity Diagram
-    Activity Diagram merupakan diagram yang dapat memodelkan proses-proses yang terjadi pada sebuah sistem. Runtutan proses dari suatu sistem digambarkan secara vertikal. Activity diagram merupakan pengembangan dari Use Case yang memiliki alur aktivitas. 
-- Class Diagram
+    merupakan diagram yang dapat memodelkan proses-proses yang terjadi pada sebuah sistem. Runtutan proses dari suatu sistem digambarkan secara vertikal. Activity diagram merupakan pengembangan dari Use Case yang memiliki alur aktivitas. Berikut adalah ilustrasi diagram untuk aktivitas perangkat lunak Moodo.
+
+    <img src="https://trello-attachments.s3.amazonaws.com/60b997d5bd18720830f0ce5a/673x627/55956cd7e2e4f241d0861220c93439a6/Screen_Shot_2021-06-04_at_10.12.04.png" width="500" height="350" />
 - ERD
+    atau Entity Relationship Diagram adalah suatu bentuk diagram yang menjelaskan hubungan antar objek-objek data yang mempunyai hubungan antar relasi. Berikut adalah ilustrasi ERD pada perangkat lunak Moodo.
+
+    <img src="https://trello-attachments.s3.amazonaws.com/60b9a553bd87d723ffbb0769/587x507/32f91a355195e7dc33e9488082d84164/Screen_Shot_2021-06-04_at_10.59.36.png" width="500" height="350" />
+
+- Class Diagram
+    berfungsi untuk menggambarkan struktur sebuah sistem pemrograman. Class diagram banyak memperhatikan hubungan antarkelas dan penjelasan detail tiap kelas dalam pemodelan desain (dalam logical view) dari suatu sistem. Berikut adalah ilustrasi Class Diagram pada perangkat lunak Moodo.
+
+    <img src="https://trello-attachments.s3.amazonaws.com/60b9a5a2a235771ea2a1b862/425x261/5f39510056776002cae2f7d15bd8c6c3/Screen_Shot_2021-06-04_at_11.01.05.png" width="500" height="250" />
+
 - Arsitektur Diagram
-    Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya.
+    Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya. Berikut adalah ilustrasi arsitektur diagram pada perangkat lunak Moodo.
     
      <img src="https://trello-attachments.s3.amazonaws.com/6033234ba21fd86aafb964bc/523x645/f47b0310bc0d2aba4063d8186471eaed/IMG-20210426-WA0000.jpg" width="500" height="550" />
 - Fungsi Utama 
@@ -161,15 +172,15 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 
 <img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" /> <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
 
+## Testing (Test Case)
+- Positive Cases
+- Negative Cases
+
 ## Download Aplikasi
 Aplikasi sudah tersedia pada Play Store atau bisa langsung
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
   
 <img src="https://trello-attachments.s3.amazonaws.com/6020b019834f9a761fda2244/60ab394601575a288c07153b/4f8d1f9303a5c558341769e08ef909f0/Thumbnail%2B18_9.png" width="500" height="250" />
-
-## Testing (Test Case)
-- Positive Cases
-- Negative Cases
 
 ## Projek Documentation 
 - [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
