@@ -3,7 +3,8 @@
 
 > Moodo adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan.
 
-## Download aplikasi
+## Download Aplikasi
+Aplikasi sudah tersedia pada Play Store atau bisa langsung
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
 
 # Laporan Akhir Projek
@@ -145,7 +146,13 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
     Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya. Berikut adalah ilustrasi arsitektur diagram pada perangkat lunak Moodo.
     
      <img src="https://trello-attachments.s3.amazonaws.com/6033234ba21fd86aafb964bc/523x645/f47b0310bc0d2aba4063d8186471eaed/IMG-20210426-WA0000.jpg" width="500" height="550" />
-- Fungsi Utama 
+## Fungsi Utama 
+1. Welcome Page & Home Page Moodo
+       Pada fitur welcome page terdapat sambutan salam "Assalamualaikum" dengan melampirkan penanggalan kalender masehi maupun hijriah. Kemudian, pada welcome page juga user disambut dengan tampilan "Doa of the Day" yang akan terus berganti setiap kali membuka aplikasi Moodo.
+       Kemudian pada fitur home page, user bisa memilih doa berdasarkan mood yang sudah disediakan dengan bentuk tiga icon sesuai dengan mood (sedih, normal, senang).
+    
+<img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> 
+<img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" />
 - Fungsi CRUD
 
 ## Hasil Implementasi
@@ -156,10 +163,6 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 ## Testing (Test Case)
 - Positive Cases
 - Negative Cases
-
-## Download Aplikasi
-Aplikasi sudah tersedia pada Play Store atau bisa langsung
-[Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
 
 ## Projek Documentation 
 - [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
