@@ -5,6 +5,7 @@
 
 ## Download Aplikasi
 Aplikasi sudah tersedia pada Play Store atau bisa langsung
+
 [Klik di sini untuk mengunduh aplikasi Moodo untuk android](https://ipb.link/get-moodo)
 
 # Laporan Akhir Projek
@@ -120,7 +121,9 @@ Setelah satu tahun pandemi Covid-19, tim moodo menemukan beberapa permasalahan y
 
 ## User Analysis
 User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan mempengaruhi pengembangan sistem perangkat lunak. 
-- User stories adalah bagian dari user analisis yang memuat penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna. [Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
+- User stories adalah bagian dari user analisis yang memuat penjelasan singkat dengan bahasa sederhana yang ditulis dari sudut pandang pengguna. 
+
+[Klik di sini untuk melihat user stories moodo](ipb.link/userstories-moodo)
 
 ## Hasil dan Pembahasan
 - Use Case Diagram
@@ -146,30 +149,98 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
     Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya. Berikut adalah ilustrasi arsitektur diagram pada perangkat lunak Moodo.
     
      <img src="https://trello-attachments.s3.amazonaws.com/6033234ba21fd86aafb964bc/523x645/f47b0310bc0d2aba4063d8186471eaed/IMG-20210426-WA0000.jpg" width="500" height="550" />
-## Fungsi Utama 
+### Fungsi Utama 
 1. Welcome Page & Home Page Moodo
-       Pada fitur welcome page terdapat sambutan salam "Assalamualaikum" dengan melampirkan penanggalan kalender masehi maupun hijriah. Pada welcome page juga user disambut dengan tampilan "Doa of the Day" yang akan terus berganti setiap kali membuka aplikasi Moodo.
+       
+    Pada fitur welcome page terdapat sambutan salam "Assalamualaikum" dengan melampirkan penanggalan kalender masehi maupun hijriah. Pada welcome page juga user disambut dengan tampilan "Doa of the Day" yang akan terus berganti setiap kali membuka aplikasi Moodo.
        
     Kemudian pada fitur home page, user bisa memilih doa berdasarkan mood yang sudah disediakan dengan bentuk tiga icon sesuai dengan mood (sedih, normal, senang).
     
     <img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" />
 
 2. Pencarian Doa by Keyword
-        Pada fitur pencarian doa berdasarkan keyword, user dapat memasukkan kata kunci sesuai dengan doa yang ingin dicari pada kolom search doa. Pada page doa ini, terdapat 250 lebih pilihan doa dilengkapi dengan arab, latin, arti dan juga tentang doa tersebut. 
+        
+    Pada fitur pencarian doa berdasarkan keyword, user dapat memasukkan kata kunci sesuai dengan doa yang ingin dicari pada kolom search doa. Pada page doa ini, terdapat 250 lebih pilihan doa dilengkapi dengan arab, latin, arti dan juga tentang doa tersebut. 
     
     <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
 
 3. Doa Favorite
-        Pada fitur favorit, user bisa menambahkan doa yang disukai/sedang ingin dibaca secara berulang pada fitur favorit. Sehingga doa akan secara otomatis dimasukkan pada page favorit yang dapat memudahkan user ketika mencari doa tersebut. 
+        
+    Pada fitur favorit, user bisa menambahkan doa yang disukai/sedang ingin dibaca secara berulang pada fitur favorit. Sehingga doa akan secara otomatis dimasukkan pada page favorit yang dapat memudahkan user ketika mencari doa tersebut. 
     
     <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="https://trello-attachments.s3.amazonaws.com/60ba3b80da16c536004be599/375x792/e5185beb75cd18110027be72f37e0a5c/qemu-system-x86_64_g9D4cIXL1d.png" width="270" height="570" /> 
 
 4. Zikir Pagi & Petang
-        Fitur zikir pagi & petang merupakan panduan zikir pagi & petang yang dimaksudkan agar mempermudah user ketika ingin berzikir dimanapun dan kapanpun karena dikemas dalam aplikasi mobile dan tidak memerlukan akses internet. Fitur ini juga di desain dengan menarik sehingga mampu membuat user merasa nyaman ketika mengikuti panduan zikir pagi & petang pada aplikasi moodo. 
+        
+    Fitur zikir pagi & petang merupakan panduan zikir pagi & petang yang dimaksudkan agar mempermudah user ketika ingin berzikir dimanapun dan kapanpun karena dikemas dalam aplikasi mobile dan tidak memerlukan akses internet. Fitur ini juga di desain dengan menarik sehingga mampu membuat user merasa nyaman ketika mengikuti panduan zikir pagi & petang pada aplikasi moodo. 
     
-    <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> <img src="https://trello-attachments.s3.amazonaws.com/60ba3bff0ceeec5caa64a489/375x792/2662203225d97911e38e0b9ffc1fe0a2/qemu-system-x86_64_xvtR28H8w0.png" width="270" height="570" /> <img src="https://trello-attachments.s3.amazonaws.com/60ba3bdafbb1e322c7ef7aa4/375x792/e2c59a1d5ff4cd3c595e2fa7bf7fcbd1/qemu-system-x86_64_RhsEte0IIr.png" width="270" height="570" /> 
+    <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /><img src="https://trello-attachments.s3.amazonaws.com/60ba3bff0ceeec5caa64a489/375x792/2662203225d97911e38e0b9ffc1fe0a2/qemu-system-x86_64_xvtR28H8w0.png" width="270" height="570" /><img src="https://trello-attachments.s3.amazonaws.com/60ba3bdafbb1e322c7ef7aa4/375x792/e2c59a1d5ff4cd3c595e2fa7bf7fcbd1/qemu-system-x86_64_RhsEte0IIr.png" width="270" height="570" /> 
 
-- Fungsi CRUD
+### Fungsi CRUD
+CRUD adalah singkatan dari create, read, update, and delete yang merupakan fungsi-fungsi utama yang diimplementasikan dalam aplikasi database.
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>CRUD</th>
+            <th>Fungsi</th>
+            <th>Fitur</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Create</td>
+            <td>Menambahkan doa</td>
+            <td>Favorit</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Read</td>
+            <td>Membaca doa</td>
+            <td>Search doa</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Update</td>
+            <td>Meng-update doa</td>
+            <td>Favorit</td>
+        </tr>
+                <tr>
+            <td>4</td>
+            <td>Delete</td>
+            <td>Menghapus doa</td>
+            <td>Favorit</td>
+        </tr>
+    </tbody>
+</table>
+
+#### Detail CRUD perangkat lunak moodo :
+1. Create
+        
+    Fungsi CRUD yang pertama adalah create. Fungsi ini memungkinkan user membuat record baru dalam database.
+
+    Pada perangkat lunak moodo, fitur favorit termasuk ke dalam fungsi create dikarenakan user dapat menambahkan daftar (record) doa-doa yang akan dimasukkan ke dalam page favorit.
+
+2. Read
+        
+    Fungsi read hampir mirip dengan fungsi search. Fungsi ini memungkinkan user untuk mencari dan mengambil data tertentu dalam tabel dan membaca nilainya.
+    
+    Pada perangkat lunak moodo, fitur search doa by mood dan fitur search doa by keyword termasuk ke dalam fungsi read dikarenakan user dapat mencari doa yang ingin dibaca. Fitur ini juga memuat lebih dari 250 doa dilengkapi dengan arab, latin, arti dan tentang doa.
+
+3. Update
+        
+    Fungsi update digunakan untuk memodifikasi record yang telah tersimpan di database.
+
+    Pada perangkat lunak moodo, fitur favorit termasuk ke dalam fungsi update dikarenakan user mampu untuk mengubah record (menambahkan atau menghapus) list doa pada page favorit.
+
+4. Delete
+
+    Ketika ada record atau data yang tidak lagi dibutuhkan dalam database, fungsi CRUD yang digunakan adalah fungsi delete. Fungsi ini dapat digunakan untuk menghapus data tersebut.
+
+    Pada perangkat lunak moodo, fitur favorit termasuk ke dalam fungsi delete dikarenakan user dapat menghapus atau menghilangkan daftar doa yang sudah tidak diinginkan (sudah tidak ingin dibaca atau sudah selesai dibaca) pada page favorit.
+
 
 ## Hasil Implementasi
 Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
