@@ -247,12 +247,149 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 
 <img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" /> <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
 
+## Testing (Test Case)
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Test Case Name</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Positive Test</th>
+            <th>Negative Test</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Check that user can go to Mood(senang/biasa/sedih) doa page
+</td>
+            <td>Menekan tombol ekspresi senang/biasa/sedih di homepage</td>
+            <td>User akan dialihkan ke halaman Mood Doa</td>
+            <td>User berhasil dialihkan ke halaman Mood Doa</td>
+            <td style="text-align:center">-</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Check that user can go to Doa List Page
+</td>
+            <td>Menekan tombol 'Cari doa' pada navbar</td>
+            <td>User akan dialihkan ke halaman Doa List</td>
+            <td>User berhasil dialihkan ke halaman Doa List</td>
+            <td style="text-align:center">-</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Check that user can go to Dzikir Pagi-Petang Page
+</td>
+            <td>Menekan tombol 'Pagi-Petang' pada navbar</td>
+            <td>User akan dialihkan ke halaman Dzikir Pagi-Petang </td>
+            <td>User berhasil dialihkan ke halaman Dzikir Pagi-Petang</td>
+            <td style="text-align:center">-</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Check that user can go to Dzikir Pagi Page
+</td>
+            <td>Menekan tombol 'Dzikir Pagi pada halaman Dzikir Pagi-Petang</td>
+            <td>User akan dialihkan ke halaman Dzikir Pagi</td>
+            <td> User berhasil dialihkan ke halaman Dzikir Pagi</td>
+            <td style="text-align:center">-</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Check that user can go to Dzikir Petang Page
+</td>
+            <td>Menekan tombol 'Dzikir Petang pada halaman Dzikir Pagi-Petang</td>
+            <td>User akan dialihkan ke halaman Dzikir Petang</td>
+            <td>User berhasil dialihkan ke halaman Dzikir Petang</td>
+            <td style="text-align:center">-</td>
+        </tr>
+         <tr>
+            <td>6</td>
+            <td>Check that user can go to Homepage
+
+</td>
+            <td>Menekan tombol 'Home' pada navbar</td>
+            <td>User akan dialihkan ke halaman Home</td>
+            <td>User berhasil dialihkan ke halaman Home</td>
+           <td style="text-align:center">-</td>
+        </tr>
+         <tr>
+            <td>7</td>
+            <td>Search Doa
+
+
+</td>
+            <td>Memasukkan keyword yang terdapat dalam database</td>
+            <td>User akan menemukan doa yang sesuai dengan keyword yang dicari</td>
+            <td>User menemukan doa yang sesuai dengan keyword yang dicari</td>
+             <td style="text-align:center">-</td>
+        </tr>
+          <tr>
+            <td>8</td>
+            <td>Search Doa
+
+
+</td>
+            <td>Memasukkan keyword yang tidak terdapat dalam database</td>
+            <td>User tidak akan menemukan doa yang sesuai dengan keyword yang dicari</td>
+             <td style="text-align:center">-</td>
+            <td>User tidak menemukan doa yang sesuai dengan keyword dan daftar doa akan menjadi kosong</td>
+        </tr>
+         <tr>
+            <td>9</td>
+            <td>Check that user can go to Doa Detail Page
+
+
+</td>
+            <td>Menekan tombol judul doa yang dipilih</td>
+            <td>User akan dialihkan ke halaman detail doa yang dipilih</td>
+            <td>User berhasil dialihkan ke halaman detail doa yang dipilih </td>
+            <td style="text-align:center">-</td>
+        </tr>
+          <tr>
+            <td>10</td>
+            <td>Favorite Doa
+
+
+</td>
+            <td>Menekan tombol berbentuk hati pada halaman detail doa sehingga icon berwarna merah</td>
+            <td>Doa pilihan yang telah difavorit user akan masuk ke halaman Favorite </td>
+            <td>User berhasil memasukkan doa pilihan ke dalam halaman Favorite</td> <td style="text-align:center">-</td>
+        </tr>
+         <tr>
+            <td>11</td>
+            <td>Remove favorite Doa
+
+
+</td>
+            <td>Menekan tombol berbentuk hati merah pada halaman detail doa sehingga berwarna abu</td>
+            <td>Doa pilihan user yang sudah ada di halaman Favorite akan hilang</td>
+            <td>User berhasil menghapus doa pilihannya dari halaman Favorite</td>
+            <td style="text-align:center">-</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Share Doa
+
+
+</td>
+            <td>Menekan tombol share pada halaman detail doa</td>
+            <td>Doa pilihan user akan di-screenshot secara otomatis oleh sistem dan siap untuk dibagikan ke platform lain</td>
+            <td>User berhasil membagikan doa pilihannya ke platform lain</td>
+            <td style="text-align:center">-</td>
+        </tr>
+    </tbody>
+</table>
 
 
 ## Projek Documentation 
 - [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
 - [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
 - [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
+- [Klik di sini untuk melihat dokumentasi Drive](http://ipb.link/moodo-drive)
 
 ## Notes
 Tim moodo juga mengembangkan website moodo dengan fitur untuk membuat jurnal yang berkaitan dengan doa. Selengkapnya akan dibahas pada laporan akhir moodo-web. (https://github.com/reinabil/Moodo-Web)
