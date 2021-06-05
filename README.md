@@ -267,7 +267,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Memasukkan email dan password dengan 9 karakter</td>
             <td>Akun berhasil dibuat dan dialihkan ke halaman index jurnal</td>
             <td>Akun berhasil dibuat. User dialihkan ke halaman index jurnal</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
         <tr>
             <td>2</td>
@@ -275,7 +275,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 </td>
             <td>Memasukkan email dan password dengan 256 karakter</td>
             <td>Akun gagal dibuat</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
             <td>Akun gagal dibuat. User diminta memasukkan password dengan batasan 255 karakter</td>
         </tr>
         <tr>
@@ -285,7 +285,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Memasukkan email dan password yang sudah terdaftar</td>
             <td>Akun berhasil login dan dialihkan ke halaman index jurnal</td>
             <td>Akun berhasil login. User dialihkan ke halaman index jurnal</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
         <tr>
             <td>4</td>
@@ -293,7 +293,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 </td>
             <td>Memasukkan email/password yang salah atau belum terdaftar</td>
             <td>Akun gagal login</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
             <td>Akun gagal login. User diminta memasukkan email/password yang benar atau terdaftar dan cocok</td>
         </tr>
         <tr>
@@ -302,7 +302,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 </td>
             <td>Mengklik tombol 'tambah jurnal' pada halaman index jurnal</td>
             <td>User akan dialihkan ke halaman create jurnal</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
             <td>User berhasil dialihkan ke halaman create jurnal</td>
         </tr>
          <tr>
@@ -313,7 +313,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Mengisi semua kolom yang perlu diisi pada halaman create jurnal termasuk doa terkait</td>
             <td>User akan berhasil membuat jurnal baru</td>
             <td>User berhasil membuat jurnal baru</td>
-            <td>-</td>
+           <td style="text-align:center">-</td>
         </tr>
          <tr>
             <td>7</td>
@@ -322,7 +322,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 </td>
             <td>Mengisi semua kolom yang perlu diisi pada halaman create jurnal kecuali doa terkait</td>
             <td>User akan gagal membuat jurnal baru</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
             <td>User gagal membuat jurnal. User diminta memasukkan doa terkait</td>
         </tr>
           <tr>
@@ -333,7 +333,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Menekan tombol 'edit' pada kartu jurnal yang sudah dibuat</td>
             <td>User akan dialihkan ke halaman edit jurnal</td>
             <td>User berhasil dialihkan ke halaman edit jurnal</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
          <tr>
             <td>9</td>
@@ -344,7 +344,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Mengisi semua kolom yang perlu diisi pada halaman edit jurnal termasuk doa terkait</td>
             <td>User akan berhasil memperbaharui jurnal</td>
             <td>User berhasil memperbaharui jurnal</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
           <tr>
             <td>10</td>
@@ -354,7 +354,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 </td>
             <td>Mengisi semua kolom yang perlu diisi pada halaman edit jurnal kecuali doa terkait</td>
             <td>User akan gagal memperbaharui jurnal</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
             <td>User gagal memperbaharui jurnal. User diminta memasukkan doa terkait</td>
         </tr>
          <tr>
@@ -366,7 +366,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Menekan tombol 'detail' pada kartu jurnal yang sudah dibuat</td>
             <td>User akan dialihkan ke halaman detail jurnal</td>
             <td>User berhasil dialihkan ke halaman detail jurnal.</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
         <tr>
             <td>12</td>
@@ -377,7 +377,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Menekan tombol 'delete' pada kartu jurnal yang sudah dibuat</td>
             <td>Kartu jurnal yang dipilih akan terhapus dari sistem dan database</td>
             <td>User berhasil menghapus jurnal dari sistem dan database</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
         <tr>
             <td>13</td>
@@ -388,7 +388,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Menekan tombol 'daftar doa' pada navbar</td>
             <td>User akan dialihkan ke halaman daftar doa</td>
             <td>User berhasil dialihkan ke halaman daftar doa</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
         <tr>
             <td>14</td>
@@ -399,7 +399,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Menekan tombol 'detail' di samping judul doa pada halaman daftar doa</td>
             <td>User akan dialihkan ke halaman detail doa yang dipilih</td>
             <td>User berhasil dialihkan ke halaman detail doa yang dipilih</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
         <tr>
             <td>15</td>
@@ -410,7 +410,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Menekan tombol 'profil' pada navbar</td>
             <td>User akan dialihkan ke halaman profil</td>
             <td>User berhasil dialihkan ke halaman profil</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
         <tr>
             <td>16</td>
@@ -421,7 +421,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
             <td>Menekan tombol 'logout' pada navbar</td>
             <td>User akan dialihkan ke halaman login</td>
             <td>User berhasil dialihkan ke halaman login</td>
-            <td>-</td>
+            <td style="text-align:center">-</td>
         </tr>
     </tbody>
 </table>
