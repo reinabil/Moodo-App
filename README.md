@@ -432,7 +432,7 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 - [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
 
 ## Notes
-Tim moodo juga mengembangkan website moodo dengan fitur untuk membuat jurnal yang berkaitan dengan doa. Selengkapnya akan dibahas pada laporan akhir moodo-web. (https://github.com/reinabil/MOODO-WEB-BISMILLAH.git)
+Tim moodo juga mengembangkan website moodo dengan fitur untuk membuat jurnal yang berkaitan dengan doa. Selengkapnya akan dibahas pada laporan akhir moodo-web. (https://github.com/reinabil/Moodo-Web)
 ## Saran untuk pengembangan selanjutnya
 
 
