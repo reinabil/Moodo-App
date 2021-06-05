@@ -255,6 +255,9 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 - [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
 - [Klik di sini untuk melihat dokumentasi trello](http://ipb.link/moodo-trello)
 - [Klik di sini untuk melihat dokumentasi Google-site](http://ipb.link/moodo-site)
+
+## Notes
+Tim moodo juga mengembangkan website moodo dengan fitur untuk membuat jurnal yang berkaitan dengan doa. Selengkapnya akan dibahas pada laporan akhir moodo-web. (https://github.com/reinabil/Moodo-App.git)
 ## Saran untuk pengembangan selanjutnya
 
 
