@@ -1,4 +1,4 @@
-# Moodo
+# Moodo App
 <img src="https://trello-attachments.s3.amazonaws.com/6020b019834f9a761fda2244/60ab394601575a288c07153b/4f8d1f9303a5c558341769e08ef909f0/Thumbnail%2B18_9.png" width="500" height="250" />
 
 > Moodo adalah aplikasi yang bisa merekomendasikan doa/zikir sesuai syariat islam kepada user sesuai mood yang sedang dirasakan.
