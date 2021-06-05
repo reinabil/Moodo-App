@@ -248,8 +248,183 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 <img src="https://i.imgur.com/cczXAHf.png" width="270" height="570" /> <img src="https://i.imgur.com/F3ebRwH.png" width="270" height="570" /> <img src="https://i.imgur.com/cfG3Iqt.png" width="270" height="570" /> <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /> <img src="https://i.imgur.com/kJbreAr.png" width="270" height="570" /> <img src="https://i.imgur.com/vwaVKTD.png" width="270" height="570" />
 
 ## Testing (Test Case)
-- Positive Cases
-- Negative Cases
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>Test Case Name</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Positive Test</th>
+            <th>Negative Test</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Login: Sign up
+</td>
+            <td>Memasukkan email dan password dengan 9 karakter</td>
+            <td>Akun berhasil dibuat dan dialihkan ke halaman index jurnal</td>
+            <td>Akun berhasil dibuat. User dialihkan ke halaman index jurnal</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Login: Sign up
+</td>
+            <td>Memasukkan email dan password dengan 256 karakter</td>
+            <td>Akun gagal dibuat</td>
+            <td>-</td>
+            <td>Akun gagal dibuat. User diminta memasukkan password dengan batasan 255 karakter</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Login: Sign in
+</td>
+            <td>Memasukkan email dan password yang sudah terdaftar</td>
+            <td>Akun berhasil login dan dialihkan ke halaman index jurnal</td>
+            <td>Akun berhasil login. User dialihkan ke halaman index jurnal</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Login: Sign in
+</td>
+            <td>Memasukkan email/password yang salah atau belum terdaftar</td>
+            <td>Akun gagal login</td>
+            <td>-</td>
+            <td>Akun gagal login. User diminta memasukkan email/password yang benar atau terdaftar dan cocok</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Check that user can go to page create journal
+</td>
+            <td>Mengklik tombol 'tambah jurnal' pada halaman index jurnal</td>
+            <td>User akan dialihkan ke halaman create jurnal</td>
+            <td>-</td>
+            <td>User berhasil dialihkan ke halaman create jurnal</td>
+        </tr>
+         <tr>
+            <td>6</td>
+            <td>Check that user can add new journal
+
+</td>
+            <td>Mengisi semua kolom yang perlu diisi pada halaman create jurnal termasuk doa terkait</td>
+            <td>User akan berhasil membuat jurnal baru</td>
+            <td>User berhasil membuat jurnal baru</td>
+            <td>-</td>
+        </tr>
+         <tr>
+            <td>7</td>
+            <td>Check that user can add new journal
+
+</td>
+            <td>Mengisi semua kolom yang perlu diisi pada halaman create jurnal kecuali doa terkait</td>
+            <td>User akan gagal membuat jurnal baru</td>
+            <td>-</td>
+            <td>User gagal membuat jurnal. User diminta memasukkan doa terkait</td>
+        </tr>
+          <tr>
+            <td>8</td>
+            <td>Check that user can go to page edit journal
+
+</td>
+            <td>Menekan tombol 'edit' pada kartu jurnal yang sudah dibuat</td>
+            <td>User akan dialihkan ke halaman edit jurnal</td>
+            <td>User berhasil dialihkan ke halaman edit jurnal</td>
+            <td>-</td>
+        </tr>
+         <tr>
+            <td>9</td>
+            <td>Check that user can edit journal
+
+
+</td>
+            <td>Mengisi semua kolom yang perlu diisi pada halaman edit jurnal termasuk doa terkait</td>
+            <td>User akan berhasil memperbaharui jurnal</td>
+            <td>User berhasil memperbaharui jurnal</td>
+            <td>-</td>
+        </tr>
+          <tr>
+            <td>10</td>
+            <td>Check that user can edit journal
+
+
+</td>
+            <td>Mengisi semua kolom yang perlu diisi pada halaman edit jurnal kecuali doa terkait</td>
+            <td>User akan gagal memperbaharui jurnal</td>
+            <td>-</td>
+            <td>User gagal memperbaharui jurnal. User diminta memasukkan doa terkait</td>
+        </tr>
+         <tr>
+            <td>11</td>
+            <td>Check that user can see the journal
+
+
+</td>
+            <td>Menekan tombol 'detail' pada kartu jurnal yang sudah dibuat</td>
+            <td>User akan dialihkan ke halaman detail jurnal</td>
+            <td>User berhasil dialihkan ke halaman detail jurnal.</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Check that user can delete journal
+
+
+</td>
+            <td>Menekan tombol 'delete' pada kartu jurnal yang sudah dibuat</td>
+            <td>Kartu jurnal yang dipilih akan terhapus dari sistem dan database</td>
+            <td>User berhasil menghapus jurnal dari sistem dan database</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Check that user can go to page daftar doa
+
+
+</td>
+            <td>Menekan tombol 'daftar doa' pada navbar</td>
+            <td>User akan dialihkan ke halaman daftar doa</td>
+            <td>User berhasil dialihkan ke halaman daftar doa</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Check that user can see detail doa
+
+
+</td>
+            <td>Menekan tombol 'detail' di samping judul doa pada halaman daftar doa</td>
+            <td>User akan dialihkan ke halaman detail doa yang dipilih</td>
+            <td>User berhasil dialihkan ke halaman detail doa yang dipilih</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Check that user can go to page profil
+
+
+</td>
+            <td>Menekan tombol 'profil' pada navbar</td>
+            <td>User akan dialihkan ke halaman profil</td>
+            <td>User berhasil dialihkan ke halaman profil</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Logout
+
+
+</td>
+            <td>Menekan tombol 'logout' pada navbar</td>
+            <td>User akan dialihkan ke halaman login</td>
+            <td>User berhasil dialihkan ke halaman login</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Projek Documentation 
 - [Klik di sini untuk melihat dokumentasi github](http://ipb.link/moodo-github)
