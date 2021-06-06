@@ -143,7 +143,7 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
 - Class Diagram
     berfungsi untuk menggambarkan struktur sebuah sistem pemrograman. Class diagram banyak memperhatikan hubungan antarkelas dan penjelasan detail tiap kelas dalam pemodelan desain (dalam logical view) dari suatu sistem. Berikut adalah ilustrasi Class Diagram pada perangkat lunak Moodo.
 
-    <img src="https://trello-attachments.s3.amazonaws.com/60b9a5a2a235771ea2a1b862/425x261/5f39510056776002cae2f7d15bd8c6c3/Screen_Shot_2021-06-04_at_11.01.05.png" width="500" height="250" />
+    <img src="https://imgur.com/vvlG62p"/>
 
 - Arsitektur Diagram
     Diagram arsitektur adalah bahasa gambar yang digunakan dalam bidang arsitektur untuk menerangkan konsep, prinsip, anasir, dan komponen, termasuk cara kerja maupun petunjuk penggunaannya. Berikut adalah ilustrasi arsitektur diagram pada perangkat lunak Moodo.
