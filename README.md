@@ -176,8 +176,8 @@ User Analisis adalah sarana untuk menentukan karakteristik pengguna yang akan me
     
     <img src="https://i.imgur.com/G2G4Fbg.png" width="270" height="570" /><img src="https://trello-attachments.s3.amazonaws.com/60ba3bff0ceeec5caa64a489/375x792/2662203225d97911e38e0b9ffc1fe0a2/qemu-system-x86_64_xvtR28H8w0.png" width="270" height="570" /><img src="https://trello-attachments.s3.amazonaws.com/60ba3bdafbb1e322c7ef7aa4/375x792/e2c59a1d5ff4cd3c595e2fa7bf7fcbd1/qemu-system-x86_64_RhsEte0IIr.png" width="270" height="570" /> 
 
-### Fungsi CRUD
-CRUD adalah singkatan dari create, read, update, and delete yang merupakan fungsi-fungsi utama yang diimplementasikan dalam aplikasi database.
+### Fungsi CRUD (*User*)
+CRUD adalah singkatan dari create, read, update, and delete yang merupakan fungsi-fungsi utama yang diimplementasikan dalam aplikasi database. Berikut adalah fitur-fitur CRUD yang dapat digunakan oleh *User*,
 
 <table>
     <thead>
@@ -192,7 +192,7 @@ CRUD adalah singkatan dari create, read, update, and delete yang merupakan fungs
         <tr>
             <td>1</td>
             <td>Create</td>
-            <td>Menambahkan doa</td>
+            <td>Menambahkan doa ke dalam daftar favorite</td>
             <td>Favorit</td>
         </tr>
         <tr>
@@ -204,19 +204,19 @@ CRUD adalah singkatan dari create, read, update, and delete yang merupakan fungs
         <tr>
             <td>3</td>
             <td>Update</td>
-            <td>Meng-update doa</td>
+            <td>Meng-update daftar doa favorite</td>
             <td>Favorit</td>
         </tr>
                 <tr>
             <td>4</td>
             <td>Delete</td>
-            <td>Menghapus doa</td>
+            <td>Menghapus doa dari daftar favorite</td>
             <td>Favorit</td>
         </tr>
     </tbody>
 </table>
 
-#### Detail CRUD perangkat lunak moodo :
+#### Detail CRUD perangkat lunak moodo yang bisa digunakan *User* :
 1. Create
         
     Fungsi CRUD yang pertama adalah create. Fungsi ini memungkinkan user membuat record baru dalam database.
@@ -241,6 +241,61 @@ CRUD adalah singkatan dari create, read, update, and delete yang merupakan fungs
 
     Pada perangkat lunak moodo, fitur favorit termasuk ke dalam fungsi delete dikarenakan user dapat menghapus atau menghilangkan daftar doa yang sudah tidak diinginkan (sudah tidak ingin dibaca atau sudah selesai dibaca) pada page favorit.
 
+### Fungsi CRUD (*Admin / Developer*)
+Adapun berikut ini adalah fitur-fitur CRUD yang dapat dilakukan oleh admin / developer Moodo,
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th>CRUD</th>
+            <th>Fungsi</th>
+            <th>Fitur</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Create</td>
+            <td>Menambahkan doa/dzikir baru ke dalam daftar doa/dzikir</td>
+            <td>Doa/dzikir</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Read</td>
+            <td>Melihat isi doa/dzikir</td>
+            <td>Doa/dzikir</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Update</td>
+            <td>Meng-update isi doa/dzikir</td>
+            <td>Doa/dzikir</td>
+        </tr>
+                <tr>
+            <td>4</td>
+            <td>Delete</td>
+            <td>Menghapus doa/dzikir dari daftar doa/dzikir</td>
+            <td>Doa/dzikir</td>
+        </tr>
+    </tbody>
+</table>
+
+#### Detail CRUD perangkat lunak moodo yang bisa digunakan *Admin* :
+1. Create
+        
+    Admin atau pengembang aplikasi Moodo bisa langsung menambahkan doa/dzikir jika ada saran doa/dzikir dari *User* melalui data JSON yang ada di github.
+
+2. Read
+        
+    Untuk memastikan doa/dzikir sudah benar sebelum aplikasi Moodo di-update di Playstore, admin/developer Moodo dapat kembali mengecek isi doa/dzikir yang ada di kumpulan data JSON di dalam github Moodo.
+
+3. Update
+        
+    Ketika ada bacaan doa/dzikir yang salah, maka admin/developer Moodo dapat langsung merevisi isi doa/dzikir tersebut melalui file JSON kumpulan doa/dzikir yang Moodo miliki.
+
+4. Delete
+
+    Doa/dzikir yang kami masukkan ke dalam aplikasi Moodo tentunya memiliki sumber yang insyaAllah terpercaya. Namun, apabila kami menemukan kesalahan riwayat yang menyebabkan bacaan doa/dzikir tersebut masuk ke dalam riwayat palsu, maka kami akan segera menghapus doa/dzikir tersebut dari kumpulan data doa/dzikir Moodo dan meng-update aplikasi Moodo di Playstore untuk memnperbarui daftar doa/dzikir yang ada di *device* pengguna.
 
 ## Hasil Implementasi
 Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
@@ -394,7 +449,3 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 ## Notes
 Tim moodo juga mengembangkan website moodo dengan fitur untuk membuat jurnal yang berkaitan dengan doa. Selengkapnya akan dibahas pada laporan akhir moodo-web. (https://github.com/reinabil/Moodo-Web)
 ## Saran untuk pengembangan selanjutnya
-
-
-
-
