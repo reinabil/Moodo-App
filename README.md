@@ -449,3 +449,10 @@ Dilampirkan screenshot hasil pengembangan perangkat lunak moodo
 ## Notes
 Tim moodo juga mengembangkan website moodo dengan fitur untuk membuat jurnal yang berkaitan dengan doa. Selengkapnya akan dibahas pada laporan akhir moodo-web. (https://github.com/reinabil/Moodo-Web)
 ## Saran untuk pengembangan selanjutnya
+- Notifikasi zikir pagi dan petang
+- Pengkategorian doa
+- Urutkan doa sesuai abjad
+- Publish app untuk Appstore
+- Audio doa
+- Cerita di balik sebuah doa
+- Kisah inspiratif tentang sebuah doa
